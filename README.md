@@ -1,6 +1,6 @@
 # SPA E-Commerce Application
 
-This project is an SPA e-commerce application built using React.js, Contex API for state management, products are taken from a json-file.
+This project is an SPA e-commerce application built using React.js, Contex API for state management, products are taken from a array in js-file.
 
 ## Key Features
 
